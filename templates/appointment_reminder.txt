@@ -1,0 +1,15 @@
+Hello {name},
+
+This is a friendly reminder of your upcoming appointment:
+
+🧾 Service: {service}  
+📅 Date: {date}  
+⏰ Time: {time}  
+📍 Location: {location}
+
+If you need to reschedule or cancel, please contact us at least 24 hours in advance.
+
+We look forward to seeing you! 😊
+
+---
+⚠️ This is an automated message. Please do not reply directly to this email.

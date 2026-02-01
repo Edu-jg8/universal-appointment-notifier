@@ -16,7 +16,7 @@ A high-reliability Python automation tool designed for small businesses to elimi
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/universal-notifier.git](https://github.com/your-username/universal-notifier.git)
+    git clone https://github.com/Edu-jg8/universal-notifier.git
     cd universal-notifier
     ```
 
@@ -46,5 +46,6 @@ A high-reliability Python automation tool designed for small businesses to elimi
 
 ## 🔒 Gmail Security Note
 This application requires **2-Step Verification** to be enabled on your Google account. You must generate a specific **App Password** (16 characters) to allow the script to send emails securely without exposing your primary password.
+
 
 ---

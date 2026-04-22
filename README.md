@@ -16,8 +16,8 @@ A high-reliability Python automation tool designed for small businesses to elimi
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/universal-notifier.git](https://github.com/your-username/universal-notifier.git)
-    cd universal-notifier
+    git clone [https://github.com/Edu-jg8/universal-appointment-notifier.git](https://github.com/your-username/universal-appointment-notifier.git)
+    cd universal-appointment-notifier
     ```
 
 2.  **Environment Configuration**:
